@@ -11,6 +11,7 @@
 
 ## 生活碎碎念
 记录日常所历所感，以及一些读后感。
+* [两周的瞎折腾](http://fannieshi.com/111.html)
 * [我的2016](http://fannieshi.com/62.html)
 * [初到帝都的日子](http://fannieshi.com/13.html)
 
