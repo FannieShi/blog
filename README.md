@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [.jshintrc文件的常用配置](http://fannieshi.com/114.html)
 * [CSS妙用：纯CSS实现阅读进度条](http://fannieshi.com/99.html)
 * [JS组件：缓动动画](http://fannieshi.com/91.html)
 * [canvas实现时钟](http://fannieshi.com/82.html)
