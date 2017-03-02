@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [Webstorm 配置本地服务器 – 局域网内其他设备可访问（如手机等）](http://fannieshi.com/129.html)
 * [我的前端工作流](http://fannieshi.com/121.html)
 * [.jshintrc文件的常用配置](http://fannieshi.com/114.html)
 * [CSS妙用：纯CSS实现阅读进度条](http://fannieshi.com/99.html)
