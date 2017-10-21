@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [Git： git​ 忽略指定文件或目录](http://fannieshi.com/208.html)
 * [化PSD小图标为CSS3 font-face字体图标](http://fannieshi.com/167.html)
 * [JavaScript: with的用法及延长作用域链](http://fannieshi.com/156.html)
 * [Webstorm 配置本地服务器 – 局域网内其他设备可访问（如手机等）](http://fannieshi.com/129.html)
