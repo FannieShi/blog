@@ -16,6 +16,7 @@
 
 ## 生活碎碎念
 记录日常所历所感，以及一些读后感。
+* [我谈《当我谈跑步时我谈些什么》](http://fannieshi.com/191.html)
 * [假后综合症](http://fannieshi.com/185.html)
 * [当坚持成为一种习惯](http://fannieshi.com/146.html)
 * [两周的瞎折腾](http://fannieshi.com/111.html)
