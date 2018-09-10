@@ -1,6 +1,8 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [​ES6的新增特性](http://fannieshi.com/236.html)
+* [​字蛛——一个中文字体压缩器](http://fannieshi.com/217.html)
 * [Git： git​ 忽略指定文件或目录](http://fannieshi.com/208.html)
 * [化PSD小图标为CSS3 font-face字体图标](http://fannieshi.com/167.html)
 * [JavaScript: with的用法及延长作用域链](http://fannieshi.com/156.html)
