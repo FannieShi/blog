@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [微信小程序初体验](http://fannieshi.com/252.html)
 * [​ES6的新增特性](http://fannieshi.com/236.html)
 * [​字蛛——一个中文字体压缩器](http://fannieshi.com/217.html)
 * [Git： git​ 忽略指定文件或目录](http://fannieshi.com/208.html)
