@@ -22,6 +22,7 @@
 
 ## 生活碎碎念
 记录日常所历所感，以及一些读后感。
+* [书单推荐 -《人类简史》](http://fannieshi.com/319.html)
 * [书单推荐 -《长夜难明》](http://fannieshi.com/314.html)
 * [书单推荐 -《嫌疑人X的献身》](http://fannieshi.com/268.html)
 * [我谈《当我谈跑步时我谈些什么》](http://fannieshi.com/191.html)
