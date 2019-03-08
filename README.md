@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [Mac下搭建vue开发环境](http://fannieshi.com/327.html)
 * [transform 导致字体模糊的解决方案](http://fannieshi.com/305.html)
 * [Vue打包上线的二三事](http://fannieshi.com/302.html)
 * [微信小程序初体验](http://fannieshi.com/252.html)
