@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [前端数据库 IndexedDB 入门教程](http://fannieshi.com/332.html)
 * [Mac下搭建vue开发环境](http://fannieshi.com/327.html)
 * [transform 导致字体模糊的解决方案](http://fannieshi.com/305.html)
 * [Vue打包上线的二三事](http://fannieshi.com/302.html)
