@@ -1,6 +1,7 @@
 # 个人博客目录
 ## 前端小记
 前端开发文章，记录日常碰到的技术性问题及解决方法。
+* [Chrome performance 使用指南](http://fannieshi.com/374.html)
 * [Vue mixin: 为你的代码减负](http://fannieshi.com/348.html)
 * [前端数据库 IndexedDB 入门教程](http://fannieshi.com/332.html)
 * [Mac下搭建vue开发环境](http://fannieshi.com/327.html)
